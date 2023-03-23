@@ -1,5 +1,5 @@
-/Users/deepak/utd/projects/darknet/yolo-tool/Images/001/ap3_600x600.jpg
-/Users/deepak/utd/projects/darknet/yolo-tool/Images/001/ap5_600x600.jpg
-/Users/deepak/utd/projects/darknet/yolo-tool/Images/001/ap2_600x600.jpg
-/Users/deepak/utd/projects/darknet/yolo-tool/Images/001/ap1_600x600.jpg
-/Users/deepak/utd/projects/darknet/yolo-tool/Images/001/ap4_600x600.jpg
+/content/Airpod-Detector/Images/001/ap3_600x600.jpg
+/content/Airpod-Detector/Images/001/ap5_600x600.jpg
+/content/Airpod-Detector/Images/001/ap2_600x600.jpg
+/content/Airpod-Detector/Images/001/ap1_600x600.jpg
+/content/Airpod-Detector/Images/001/ap4_600x600.jpg
